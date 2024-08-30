@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Gautham Lal
 - 👀 I am a recent graduate in B.Tech ECE
-- 🌱 I am a newbie to the world of electronics and programming
 - 💻 Currently I am learning python, C, C++
 - 💞️ I am using this platform to learn and understand more about electronics and programming
 - 🌹 I’m looking to collaborate on projects related to Python, C, C++ and arduino
-- 📫 How to reach me [@gauthamlal16](https://twitter.com/gauthamlal16) or say 👋 on email at [Gautham Lal](mailto:gauthamlal145@gmail.com)
+- 📫 How to reach me [Gautham Lal](https://www.linkedin.com/in/gauthamlal14/) or say 👋 on email at [Gautham Lal](mailto:gauthamlal145@gmail.com)
 - ⚡ Fun fact about me: I ❤ 📽s' & 🚗s
